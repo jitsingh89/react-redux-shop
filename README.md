@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# This is a shopping website it's build with help of of the redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
