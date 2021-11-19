@@ -1,4 +1,6 @@
 # This is a shopping website it's build with help of of the redux
+   Deplyed on https://surge.sh/
+   URL:   https://jitsingh89-jit-shop.surge.sh/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
